@@ -10,11 +10,15 @@
         "projectUniqueName": "D:\\BACK_ANG_11-02-2024\\UPC.APIBusiness\\UPC.APIBusiness.API\\UPC.APIBusiness.API.csproj",
         "projectName": "UPC.APIBusiness.API",
         "projectPath": "D:\\BACK_ANG_11-02-2024\\UPC.APIBusiness\\UPC.APIBusiness.API\\UPC.APIBusiness.API.csproj",
-        "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
         "outputPath": "D:\\BACK_ANG_11-02-2024\\UPC.APIBusiness\\UPC.APIBusiness.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,7 +45,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -111,6 +121,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -119,7 +147,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -129,11 +157,15 @@
         "projectUniqueName": "D:\\BACK_ANG_11-02-2024\\UPC.APIBusiness\\UPC.APIBusiness.DBContext\\UPC.APIBusiness.DBContext.csproj",
         "projectName": "UPC.APIBusiness.DBContext",
         "projectPath": "D:\\BACK_ANG_11-02-2024\\UPC.APIBusiness\\UPC.APIBusiness.DBContext\\UPC.APIBusiness.DBContext.csproj",
-        "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
         "outputPath": "D:\\BACK_ANG_11-02-2024\\UPC.APIBusiness\\UPC.APIBusiness.DBContext\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,7 +189,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -195,12 +233,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -210,11 +262,15 @@
         "projectUniqueName": "D:\\BACK_ANG_11-02-2024\\UPC.APIBusiness\\UPC.APIBusiness.DBEntity\\UPC.APIBusiness.DBEntity.csproj",
         "projectName": "UPC.APIBusiness.DBEntity",
         "projectPath": "D:\\BACK_ANG_11-02-2024\\UPC.APIBusiness\\UPC.APIBusiness.DBEntity\\UPC.APIBusiness.DBEntity.csproj",
-        "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
         "outputPath": "D:\\BACK_ANG_11-02-2024\\UPC.APIBusiness\\UPC.APIBusiness.DBEntity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -234,7 +290,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -250,12 +312,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -265,11 +341,15 @@
         "projectUniqueName": "D:\\BACK_ANG_11-02-2024\\UPC.APIBusiness\\UPC.APIBusiness.UnitTest\\UPC.APIBusiness.UnitTest.csproj",
         "projectName": "UPC.APIBusiness.UnitTest",
         "projectPath": "D:\\BACK_ANG_11-02-2024\\UPC.APIBusiness\\UPC.APIBusiness.UnitTest\\UPC.APIBusiness.UnitTest.csproj",
-        "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
         "outputPath": "D:\\BACK_ANG_11-02-2024\\UPC.APIBusiness\\UPC.APIBusiness.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -296,7 +376,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -326,12 +412,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
