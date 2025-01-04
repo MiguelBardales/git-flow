@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HcI/szE2rYxACQulbpNPaoNQr533BI6NqBPu4gvMdudU+d89NFK487273d99mmTvfrTlyaFo1dZp6yUCYH960w==",
+  "dgSpecHash": "AGhHBSfegCo=",
   "success": true,
   "projectFilePath": "D:\\BACK_ANG_11-02-2024\\UPC.APIBusiness\\UPC.APIBusiness.DBEntity\\UPC.APIBusiness.DBEntity.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
