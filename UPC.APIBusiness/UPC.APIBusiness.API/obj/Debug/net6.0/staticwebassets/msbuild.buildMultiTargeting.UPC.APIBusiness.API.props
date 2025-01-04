@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UPC.APIBusiness.API.props" />
+</Project>

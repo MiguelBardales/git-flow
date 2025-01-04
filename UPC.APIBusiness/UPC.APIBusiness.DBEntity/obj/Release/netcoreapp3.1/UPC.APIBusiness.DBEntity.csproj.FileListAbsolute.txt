@@ -1,0 +1,10 @@
+D:\FrontEnd1\UPC.APIBusiness\UPC.APIBusiness.DBEntity\bin\Release\netcoreapp3.1\UPC.APIBusiness.DBEntity.deps.json
+D:\FrontEnd1\UPC.APIBusiness\UPC.APIBusiness.DBEntity\bin\Release\netcoreapp3.1\UPC.APIBusiness.DBEntity.dll
+D:\FrontEnd1\UPC.APIBusiness\UPC.APIBusiness.DBEntity\bin\Release\netcoreapp3.1\UPC.APIBusiness.DBEntity.pdb
+D:\FrontEnd1\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBEntity.csproj.AssemblyReference.cache
+D:\FrontEnd1\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\FrontEnd1\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBEntity.AssemblyInfoInputs.cache
+D:\FrontEnd1\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBEntity.AssemblyInfo.cs
+D:\FrontEnd1\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBEntity.csproj.CoreCompileInputs.cache
+D:\FrontEnd1\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBEntity.dll
+D:\FrontEnd1\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Release\netcoreapp3.1\UPC.APIBusiness.DBEntity.pdb

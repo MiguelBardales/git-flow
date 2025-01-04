@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zDRQxIEELm5EkgS1cEtR7Fef1gPGRCAsGZrPJs3DKtI=",
+  "Source": "UPC.APIBusiness.API",
+  "BasePath": "_content/UPC.APIBusiness.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
